@@ -1,3 +1,14 @@
+## Project View
+##### View with Error Inputs
+![alt-текст](https://github.com/AnastasiiaHladina/react-cart/pic/1.png)
+##### View with Add new item
+![alt-текст](https://github.com/AnastasiiaHladina/react-cart/pic/2.png)
+##### View with Error in One Input
+![alt-текст](https://github.com/AnastasiiaHladina/react-cart/pic/3.png)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
